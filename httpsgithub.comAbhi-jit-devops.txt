@@ -1,0 +1,18 @@
+1. org => https://github.com/Abhi-jit-devops
+
+   repo => https://github.com/Abhi-jit-devops/BigBasket.git
+        git@github.com:Abhi-jit-devops/BigBasket.git
+   team => https://github.com/orgs/Abhi-jit-devops/teams/bigbasket-dev
+
+   PAT => 
+       id= Abhijit992
+       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
+
+
+
+2.  org name:  	https://github.com/git-github-Devops-New
+
+	repo:	https://github.com/git-github-Devops-New/Amazon.git
+		git@github.com:git-github-Devops-New/Amazon.git
+	
+	team:	https://github.com/orgs/git-github-Devops-New/teams/amazon-dev
