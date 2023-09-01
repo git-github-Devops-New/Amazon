@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 NUM=$1
 if [ `expr $NUM % 2` -eq 0 ]
