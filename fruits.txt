@@ -1,0 +1,6 @@
+apple
+pinapple
+jackfruits
+avacado
+banana
+orange
