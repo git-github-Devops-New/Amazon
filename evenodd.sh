@@ -7,3 +7,5 @@ then
 else
 	echo "NUM is odd"
 fi
+
+#practice
