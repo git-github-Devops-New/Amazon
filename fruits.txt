@@ -6,3 +6,4 @@ banana
 orange
 mango
 guava
+strawberry
